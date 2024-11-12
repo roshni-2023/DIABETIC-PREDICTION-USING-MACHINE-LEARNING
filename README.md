@@ -1,1 +1,1 @@
-
+Detects the diabetes in Females.Predict Diabetes using Machine Learning. • In this Project,our objectiveistopredictwhether the patient has diabetesornotbased on various features likeGlucoselevel,Insulin,Age,BMI. • We will performall te stepsfromDatagathering to Model deployment
